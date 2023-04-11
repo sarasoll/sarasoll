@@ -6,7 +6,7 @@
    </div>
 
 
-<br/><br/><br/><br/><br/>
+
 
 
  <div id="header" align="center">
@@ -43,7 +43,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sarasoll) 
-
+ </div>
 
 
 <br/><br/><br/><br/><br/>
