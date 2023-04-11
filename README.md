@@ -6,7 +6,7 @@
    </div>
 
 
-
+<br/><br/><br/><br/><br/>
 
 
  <div id="header" align="center">
@@ -14,7 +14,7 @@
    </div>
 
 
-
+<br/><br/><br/><br/><br/>
 
 
  <div id="header" align="center">
@@ -23,7 +23,7 @@
 I am so talented, ambitious, and hardworking individual, <br>and thirsty learner of new coding languages and new technology, <br>Information security, cybersecurity, digital transformation, <br>and how to build projects I also interested <br>in artificial intelligence and the Internet of Things (IoT) 
 
 
-
+<br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
                                              <h1>Socials 🌐 </h1>
@@ -46,7 +46,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 
-
+<br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
                                              <h1>Tech Stack 💻 </h1>
@@ -57,7 +57,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 
-
+<br/><br/><br/><br/><br/>
 
 
  <div id="header" align="center">
@@ -71,7 +71,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 
-
+<br/><br/><br/><br/><br/>
 <div id="header" align="center">
                                              <h1>GitHub Trophies 🏆</h1>
   </div>
@@ -81,16 +81,16 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 
-
+<br/><br/><br/><br/><br/>
 <div id="header" align="center">
                                              <h1>Random Dev Quote ✍️</h1>
   </div>
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 
-
+<br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Top Contributed Repo 🔝 </h1>
   </div>
@@ -99,7 +99,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 
-
+<br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Random Dev Meme 😂 </h1>
   </div>
