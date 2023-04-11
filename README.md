@@ -10,8 +10,9 @@
 
 
 
-
+ <div id="header" align="center">
                                              <h1>💫 About Me</h1>
+  </div>
 I am so talented, ambitious, and hardworking individual, <br>and thirsty learner of new coding languages and new technology, <br>Information security, cybersecurity, digital transformation, <br>and how to build projects I also interested <br>in artificial intelligence and the Internet of Things (IoT) 
 
 
