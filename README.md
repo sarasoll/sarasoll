@@ -37,7 +37,8 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   ## 💰 You can help me by Donating
   
-  [![BuyMeACoffee](https://img.shields.io/badge/can%20i%20have%20a%20Coffee%20please%20😸-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarasoll) 
+  <center> [![BuyMeACoffee](https://img.shields.io/badge/can%20i%20have%20a%20Coffee%20please%20😸-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarasoll)  </center>
+  
 
   
   
