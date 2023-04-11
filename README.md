@@ -21,9 +21,6 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarasoll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@iams0ll)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
@@ -40,7 +37,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   ## 💰 You can help me by Donating
   
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](www.buymeacoffee.com/sarasoll) 
+  [![BuyMeACoffee](https://img.shields.io/badge/i%20need%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/sarasoll) 
 
   
   
