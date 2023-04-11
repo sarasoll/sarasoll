@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # 💫 About Me:
 I am so talented, ambitious, and hardworking individual, <br>and thirsty learner of new coding languages and new technology, <br>Information security, cybersecurity, digital transformation, <br>and how to build projects I also interested <br>in artificial intelligence and the Internet of Things (IoT) 
 
@@ -28,10 +34,18 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarasoll&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sarasoll) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+  
