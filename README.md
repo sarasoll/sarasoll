@@ -27,7 +27,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
  <div id="header" align="center">
                                              <h1>Socials 🌐 </h1>
-  </div>
+  
 
 
    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Soll#8613)
