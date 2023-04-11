@@ -28,8 +28,9 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 ![](https://github-contributor-stats.vercel.app/api?username=sarasoll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
+ <div id="header" align="center">
 <img src="https://rm.up.railway.app/" width="512px"/>
-
+</div>
 ---
 
 
@@ -37,7 +38,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   ## 💰 You can help me by Donating
   
-  <div id="header" align="center"><[![BuyMeACoffee](https://img.shields.io/badge/can%20i%20have%20a%20Coffee%20please%20😸-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarasoll)></div>
+  [![BuyMeACoffee](https://img.shields.io/badge/can%20i%20have%20a%20Coffee%20please%20😸-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sarasoll)
   
 
   
