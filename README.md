@@ -15,7 +15,7 @@
 
 
 <br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
                                              <h1>About Me 🪐</h1>
@@ -27,7 +27,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 </div>
 <br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Socials 🌐 </h1>
  <br/>
@@ -52,7 +52,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 <br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Tech Stack 💻 </h1>
   
@@ -65,7 +65,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 <br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
                                              <h1>GitHub Stats 📊 </h1>
@@ -81,6 +81,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 <br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <div id="header" align="center">
                                              <h1>GitHub Trophies 🏆</h1>
  <br/>
@@ -91,7 +92,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   </div>
 
-
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <div id="header" align="center">
                                              <h1>Random Dev Quote ✍️</h1>
@@ -102,7 +103,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
-
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Top Contributed Repo 🔝 </h1>
@@ -113,7 +114,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 ![](https://github-contributor-stats.vercel.app/api?username=sarasoll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
  </div>
-
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
  <div id="header" align="center">
                                              <h1>Random Dev Meme 😂 </h1>
