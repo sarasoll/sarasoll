@@ -23,11 +23,14 @@
  <br/>
  <br/>
  <br/>
+ 
 I am so talented, ambitious, and hardworking individual, <br>and thirsty learner of new coding languages and new technology, <br>Information security, cybersecurity, digital transformation, <br>and how to build projects I also interested <br>in artificial intelligence and the Internet of Things (IoT) 
 
 </div>
+
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
  <div id="header" align="center">
                                              <h1>Socials 🌐 </h1>
  <br/>
@@ -53,6 +56,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
  <div id="header" align="center">
                                              <h1>Tech Stack 💻 </h1>
   
@@ -73,8 +77,16 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
  <br/>
  <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarasoll&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+<br/>
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarasoll&theme=dark&hide_border=false)
+
+<br/>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   </div>
@@ -82,6 +94,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
 <div id="header" align="center">
                                              <h1>GitHub Trophies 🏆</h1>
  <br/>
@@ -94,34 +107,41 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
 <div id="header" align="center">
                                              <h1>Random Dev Quote ✍️</h1>
 
  <br/>
  <br/>
  <br/>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
  <div id="header" align="center">
                                              <h1>Top Contributed Repo 🔝 </h1>
  
  <br/>
  <br/>
  <br/>
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=sarasoll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
  </div>
+ 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
+
  <div id="header" align="center">
                                              <h1>Random Dev Meme 😂 </h1>
 
 <br/>
 <br/>
 <br/>
+
 <img src="https://rm.up.railway.app/" width="512px"/>
 </div>
 
