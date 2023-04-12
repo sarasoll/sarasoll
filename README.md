@@ -77,17 +77,23 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
  <br/>
  <br/>
 
+ 
+ 
 ![](https://github-readme-stats.vercel.app/api?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 <br/>
 <br/>
 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ 
+ <br/>
+<br/>
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarasoll&theme=dark&hide_border=false)
 
-<br/>
-<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
   </div>
 
