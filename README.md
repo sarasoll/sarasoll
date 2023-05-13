@@ -144,14 +144,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 <br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
-                                             <h1>Random Dev Meme 😂 </h1>
 
-<br/>
-<br/>
-<br/>
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-</div>
 
 
 <br/>
