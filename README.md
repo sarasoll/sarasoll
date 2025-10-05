@@ -3,9 +3,7 @@
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <img src="https://github.com/sarasoll/sarasoll/blob/main/img/mona-loading-dark.gif" width="100"/> 
    <br/>
-<a href="https://www.buymeacoffee.com/sarasoll" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-   </div>
+
 
 
 
