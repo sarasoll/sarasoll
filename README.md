@@ -91,11 +91,6 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   </div>
 
-
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-
-
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
@@ -109,22 +104,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
 
-
- 
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-
- <div id="header" align="center">
-
-
-
-<br/>
-<br/><br/>
-<br/><br/>
-<br/>
 
 
 
