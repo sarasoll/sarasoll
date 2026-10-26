@@ -76,12 +76,6 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
  <br/>
  <br/>
  <br/>
-
- 
- 
-![](https://github-readme-stats.vercel.app/api?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-<br/>
 <br/>
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasoll&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -101,15 +95,6 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
-<div id="header" align="center">
-                                             <h1>GitHub Trophies 🏆</h1>
- <br/>
- <br/>
- <br/>
-
-![](https://github-profile-trophy.vercel.app/?username=sarasoll&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-  </div>
 
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
@@ -127,16 +112,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
- <div id="header" align="center">
-                                             <h1>Top Contributed Repo 🔝 </h1>
- 
- <br/>
- <br/>
- <br/>
- 
-![](https://github-contributor-stats.vercel.app/api?username=sarasoll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- </div>
  
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
