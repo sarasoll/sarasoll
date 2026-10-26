@@ -55,7 +55,6 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 <br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
 
  <div id="header" align="center">
                                              <h1>Tech Stack 💻 </h1>
@@ -69,7 +68,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
 
 <br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
+
 
  <div id="header" align="center">
                                              <h1>GitHub Stats 📊 </h1>
@@ -91,7 +90,7 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 
   </div>
 
-<br/><br/><br/><br/><br/>
+
 <br/><br/><br/><br/><br/>
 
 <div id="header" align="center">
@@ -106,7 +105,10 @@ I am so talented, ambitious, and hardworking individual, <br>and thirsty learner
 </div>
 
 
-
+ <br/>
+ <br/>
+ <br/>
+ 
 
  
   
